@@ -63,4 +63,4 @@ You can upload either **.txt** or **.pdf** files through the input box. Please e
 
 ### References
 
-This project includes code referenced from INFO 5940 and guidance from ChatGPT.
+This project includes code referenced from INFO 5940.
